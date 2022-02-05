@@ -1,0 +1,10 @@
+kmeans,0
+erreurs_kmeans,4.9559
+fn_kmeans,0.487
+fp_kmeans,4.4689
+precision_kmeans,98.3480333333334
+sensibilite_kmeans,0.9975655261279169
+specificite_kmeans,0.9552259329550847
+rep,10000.0
+clusters,2.0
+seuil_veracite,95.0

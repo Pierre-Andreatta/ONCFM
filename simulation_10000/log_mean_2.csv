@@ -1,0 +1,8 @@
+regression_logistique,0
+erreurs_log,2.941
+fn_log,0.9573
+fp_log,1.9837
+precision_log,98.99624573378628
+sensibilite_log,0.9950823051856065
+specificite_log,0.9798723731707072
+rep,10000.0
